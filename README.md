@@ -1,3 +1,3 @@
 # hello-world
 practice
-im patrick
+hello, im patrick 
